@@ -43,7 +43,7 @@ I'm Shashank Sharma working on java tech stack and learning the dsa on [Youtube]
 I love sharing knowledge and putting repo, courses and posts together for helping other developers, and that's why iam working in github
 
 
-#### Technology Used
+#### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs           ████████████████████▓░░░░   82.52 % 
