@@ -27,7 +27,7 @@ I'm Shashank Sharma working on java tech stack and learning the dsa on [Youtube]
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/Shashank-deb/Resume/blob/master/Shashank_Sharma.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf)
 - :email: sharmashashank446@gmail.com
 
 #### Profile Visits
