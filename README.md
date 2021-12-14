@@ -47,11 +47,11 @@ I love sharing knowledge and putting repo, courses and posts together for helpin
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 29 mins   ████████████████████▓░░░░   82.70 % 
-Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JavaScript   5 hrs 36 mins   ████████████████████▓░░░░   82.03 % 
+Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Java         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 <!--END_SECTION:waka-->
 
