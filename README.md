@@ -1,6 +1,6 @@
 ## Hi I'm Shashank Sharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Shashank Sharma working on java tech stack and learning the dsa on [Youtube](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi). I Spend most of time coding outstanding questions and developing good habit of problem solving.
+I'm Shashank Sharma working on java tech stack and learning the dsa concepts and spend most of the time in leetcode. I Spend most of time coding outstanding questions and developing good habit of problem solving.
 
 :mailbox: Reach me out!
 
