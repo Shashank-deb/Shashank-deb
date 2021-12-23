@@ -47,11 +47,11 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 17 mins   ███████████████████████▓░   94.20 % 
-EJS          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript   6 hrs 39 mins   ███████████████████████▒░   93.72 % 
+EJS          19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
