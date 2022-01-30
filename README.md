@@ -47,7 +47,7 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++    10 mins         ████████████████████████▒   97.18 % 
 ```
 <!--END_SECTION:waka-->
 
