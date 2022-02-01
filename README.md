@@ -47,7 +47,7 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
-C++    10 mins         ████████████████████████▒   97.18 % 
+C++    25 mins         ████████████████████████▓   98.82 % 
 ```
 <!--END_SECTION:waka-->
 
