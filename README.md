@@ -47,8 +47,6 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 ```text
-Total: 21 mins
-
 HTML         21 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
