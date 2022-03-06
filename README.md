@@ -48,9 +48,7 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 <!--START_SECTION:waka-->
 
 ```text
-Java   17 mins         ███████████████████▒░░░░░   77.50 %
-XML    4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-HTML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
