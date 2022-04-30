@@ -48,8 +48,7 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 <!--START_SECTION:waka-->
 
 ```text
-HTML   1 hr 42 mins    ████████████████████████░   95.68 %
-Text   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
