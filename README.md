@@ -48,7 +48,9 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   37 mins         █████████████████████████   100.00 %
+JavaScript   43 mins         ████████████████████░░░░░   80.50 %
+HTML         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+PHP          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->
