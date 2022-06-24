@@ -48,10 +48,10 @@ I love sharing knowledge and putting repo, learning and posts together for helpi
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   49 mins         ████████████████░░░░░░░░░   63.64 %
-PHP          14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-HTML         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PHP          14 mins         █████████░░░░░░░░░░░░░░░░   35.50 %
+HTML         13 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
+JavaScript   12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.40 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
