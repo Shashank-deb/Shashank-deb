@@ -50,12 +50,25 @@ I'm Shashank Sharma working on java tech stack and learning the DSA concepts and
   More stuff about me
 </summary>
 
-<br>
+<br >
 
-I love sharing knowledge and putting repos, learning, and posts together for helping other developers and also learning myself, that's why I am working on GitHub.
+I love sharing knowledge and putting repo, learning and posts together for helping other developers and also learning myself,  that's why iam working in github
+
 
 #### Recent Technology Used
 <!--START_SECTION:waka-->
 
 ```text
 No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
+#### Github Stats
+
+[![Shashank Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-deb&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
+
