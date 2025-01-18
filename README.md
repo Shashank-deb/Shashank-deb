@@ -1,114 +1,146 @@
-# Hi there, I'm Shashank Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi there, I'm Shashank Sharma <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;I'm+a+Software+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Java+Tech+Stack+Specialist+%E2%98%95;Passionate+about+Data+Structures+and+Algorithms+%F0%9F%9A%80;Always+Learning+and+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Java+Tech+Stack+Specialist;DSA+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <a href="https://twitter.com/Shashan72085397" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Shashan72085397?logo=twitter&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+  </a>
+  <a href="https://github.com/Shashank-deb" target="_blank">
+    <img src="https://img.shields.io/github/followers/Shashank-deb?logo=github&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-3BA7F7?style=for-the-badge&logo=linkedin&labelColor=1A1B27"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/Shashan72085397">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Shashan72085397?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Shashank-deb">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Shashank-deb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
-  </a>
-</p>
+<img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-## 📖 About Me
+## 🚀 About Me
 
-I'm a passionate Software Engineer from India 🇮🇳
+```javascript
+const shashank = {
+    pronouns: "He" | "Him",
+    code: ["Java", "C++", "C", "JavaScript"],
+    technologies: {
+        backEnd: {
+            java: ["Spring Boot", "Spring Framework", "Microservices"],
+            databases: ["MySQL", "Redis", "PostgreSQL"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes"],
+        tools: ["Git", "Postman", "IntelliJ IDEA"]
+    },
+    currentFocus: "Building Scalable Microservices",
+    funFact: "I debug with coffee and solve bugs with more coffee ☕"
+};
+```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<details>
+<summary>🎯 Current Focus</summary>
+<br>
 
-- 🔭 Currently working with **Java Tech Stack**
-- 🌱 Mastering **Data Structures & Algorithms**
+- 🔭 Working on **Enterprise Java Applications**
+- 🌱 Mastering **System Design & Architecture**
 - 💬 Ask me about **Java, Spring Boot, Microservices**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Shashank-deb)
-- 📫 Reach me at **sharmashashank446@gmail.com**
+- 📫 Reach me at [sharmashashank446@gmail.com](mailto:sharmashashank446@gmail.com)
 - ⚡ Fun fact: I love gaming 🎮 and fitness 💪
+</details>
 
-## 🛠️ My Favorite Tools
+## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Programming Languages
+<div align="center">
+  
+### Languages
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ajava)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Acpp)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ac)
 
-<p>
-    <a href="https://github.com/search?q=user%3AShashank-deb+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AShashank-deb+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AShashank-deb+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-</p>
+### Frameworks & Libraries
+[![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
-### 🧰 Frameworks and Libraries
+### Cloud & DevOps
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-<p>
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-</p>
+### Tools
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+</div>
 
-### 🗄️ Databases and Cloud Hosting
+## 📊 GitHub Stats
 
-<p>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-</p>
-
-## 📊 Github Stats
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shashank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shashank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<details open>
+  <summary>📈 Statistics</summary>
+  <br>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-deb&theme=tokyonight" alt="GitHub Streak"/>
+  </div>
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shashank's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&custom_title=Shashank's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
+  <summary>🏆 GitHub Trophies</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </div>
 </details>
 
-## 🙋‍♂️ Let's Connect
+<details>
+  <summary>📈 Contribution Graph</summary>
+  <br>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&custom_title=Shashank's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  </div>
+</details>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/Shashan72085397"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.instagram.com/shashank.sharma.2000/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-  <a href="mailto:sharmashashank446@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf">
-    <img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Resume Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://twitter.com/Shashan72085397" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/shashank.sharma.2000/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:sharmashashank446@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashank-deb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23FF69B4.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shashank-deb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</div>
 
 <h3 align="center">
-    📝 Random Dev Quote
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+connect+with+me!;Let's+collaborate+and+build+together!" alt="Typing SVG"/>
 </h3>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 ---
 
 <h3 align="center">
-    ⭐️ From <a href="https://github.com/Shashank-deb">Shashank Sharma</a>
+  ⭐️ From <a href="https://github.com/Shashank-deb">Shashank Sharma</a>
 </h3>
