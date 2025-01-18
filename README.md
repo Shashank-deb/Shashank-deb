@@ -1,74 +1,64 @@
-## Hi I'm Shashank Sharma <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi there, I'm Shashank Sharma 👋
 
-I'm Shashank Sharma working on java tech stack and learning the DSA concepts and spend most of the time in LeetCode. I spend most of my time coding outstanding questions and developing good habits of problem-solving.
+Software Engineer specializing in Java technologies and passionate about Data Structures & Algorithms.
 
-:mailbox: Reach me out!
+## 🔍 About Me
+- 🔭 Currently working with Java tech stack
+- 📚 Dedicated to mastering DSA through LeetCode
+- 💡 Building strong problem-solving skills
+- 😄 Also known as: Shanky
+- ⚡ Fun fact: Gaming enthusiast & fitness lover
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shashank-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shashan72085397)](https://twitter.com/Shashan72085397)  
-[![Linkedin Badge](https://img.shields.io/badge/-Shashank-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-sharma-5a18811b6/)  
-[![Mail Badge](https://img.shields.io/badge/-@Shashank-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/shashank.sharma.2000/)  
-[![Mail Badge](https://img.shields.io/badge/-Shashank-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sharmashashank446@gmail.com)
+## 🛠 Tech Stack
 
-<!-- TODO: Add last video link -->
+### Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-- 🔭 I’m currently working in Java tech stack.
-- 📚 Passionate about Data Structures and Algorithms! 🚀👨🏼💻
-- 📫 How to reach me: sharmashashank446@gmail.com.
-- 😄 Pronouns: Shanky also.
-- ⚡ Fun fact: I play games and also do the workout.
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-#### Top Technologies
+### Database & Tools
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
-<!-- TODO: Make technologies links take you to repositories -->
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Java Badge](https://img.shields.io/badge/-Java-DE834D?style=for-the-badge&labelColor=black&logo=java&logoColor=DE834D)](https://www.oracle.com/java/technologies/downloads/)  
-[![C Badge](https://img.shields.io/badge/-C-22577E?style=for-the-badge&labelColor=black&logo=c&logoColor=22577E)](https://devdocs.io/c/)  
-[![C++ Badge](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=22577E)](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)  
-[![HTML Badge](https://img.shields.io/badge/-HTML-DE834D?style=for-the-badge&labelColor=black&logo=Html5&logoColor=DE834D)](https://www.w3schools.com/html/)  
-[![CSS Badge](https://img.shields.io/badge/-CSS-e535ab?style=for-the-badge&labelColor=black&logo=Css3&logoColor=FF5677)](https://www.w3schools.com/w3css/default.asp)  
-[![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](https://www.docker.com/)  
-[![AWS EC2 Badge](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/ec2/)  
-[![Elastic Beanstalk Badge](https://img.shields.io/badge/-Elastic%20Beanstalk-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/elasticbeanstalk/)  
-[![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)  
-[![Spring Framework Badge](https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](https://spring.io/projects/spring-framework)  
-[![Microservices Badge](https://img.shields.io/badge/-Microservices-007ACC?style=for-the-badge&labelColor=black&logo=microservices&logoColor=007ACC)](https://microservices.io/)  
-[![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&labelColor=black&logo=redis&logoColor=DC382D)](https://redis.io/)  
-[![Flyway Badge](https://img.shields.io/badge/-Flyway-CC0200?style=for-the-badge&labelColor=black&logo=flyway&logoColor=CC0200)](https://flywaydb.org/)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### Bizness
+## 📈 GitHub Stats
 
-- :paperclip: [My Resume/CV](https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf)
-- :email: sharmashashank446@gmail.com
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=radical" alt="Shashank's GitHub stats" />
 
-#### Profile Visits
+## 🤝 Connect with Me
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Shashank-deb.Shashank-deb&left_color=green&right_color=red)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-sharma-5a18811b6/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shashan72085397)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashank.sharma.2000/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmashashank446@gmail.com)
 
+## 📌 Quick Links
+- [Resume/CV](https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf)
+- Email: sharmashashank446@gmail.com
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Shashank-deb.Shashank-deb&left_color=green&right_color=red)
+
+---
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary>📊 Recent Activity</summary>
 
-<br >
-
-I love sharing knowledge and putting repo, learning and posts together for helping other developers and also learning myself,  that's why iam working in github
-
-
-#### Recent Technology Used
 <!--START_SECTION:waka-->
-
 ```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
-
-#### Github Stats
-
-[![Shashank Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank-deb&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </details>
-
