@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/Shashan72085397" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Shashan72085397?logo=twitter&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+  <a href="https://twitter.com/SHASHANK___45" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SHASHANK___45?logo=twitter&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
   </a>
   <a href="https://github.com/Shashank-deb" target="_blank">
     <img src="https://img.shields.io/github/followers/Shashank-deb?logo=github&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
@@ -99,10 +99,10 @@ const shashank = {
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Shashan72085397" target="_blank">
+  <a href="https://twitter.com/SHASHANK___45" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/shashank.sharma.2000/" target="_blank">
+  <a href="https://www.instagram.com/shashank____24/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:sharmashashank446@gmail.com">
