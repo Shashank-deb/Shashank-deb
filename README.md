@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-3BA7F7?style=for-the-badge&logo=linkedin&labelColor=1A1B27"/>
   </a>
+  <a href="https://leetcode.com/u/shashank_446/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&labelColor=1A1B27"/>
+  </a>
 </p>
 
 <img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -107,6 +110,9 @@ const shashank = {
   </a>
   <a href="mailto:sharmashashank446@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/shashank_446/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
 
