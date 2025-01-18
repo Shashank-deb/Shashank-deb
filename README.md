@@ -75,34 +75,23 @@ const shashank = {
 
 ## 📊 GitHub Stats
 
-<details open>
-  <summary>📈 Statistics</summary>
-  <br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-deb&theme=tokyonight" alt="GitHub Streak"/>
-  </div>
-</details>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </div>
-</details>
+<div align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=Shashank-deb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
 
-<details>
-  <summary>📈 Contribution Graph</summary>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&custom_title=Shashank's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-  </div>
-</details>
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&custom_title=Shashank's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ## 🤝 Connect With Me
 
