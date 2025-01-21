@@ -40,10 +40,10 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=const+shashank+%3D+%7B...%7D" alt="Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=const+shashank+%3D+%7B...%7D;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Engineer;%F0%9F%8C%9F+Java+Specialist;%F0%9F%9A%80+System+Design+Enthusiast;%E2%98%95+Coffee+Powered+Coder" alt="About Me Animation" />
 </div>
 
-\`\`\`javascript
+```javascript
 const shashank = {
     pronouns: "He" | "Him",
     code: ["Java", "C++", "C", "JavaScript"],
@@ -58,7 +58,7 @@ const shashank = {
     currentFocus: "Building Scalable Microservices",
     funFact: "I debug with coffee and solve bugs with more coffee ☕"
 };
-\`\`\`
+```
 
 ## 🛠️ Tech Stack & Tools
 
