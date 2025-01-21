@@ -19,26 +19,30 @@
   </a>
 </p>
 
-<img align="right" alt="Coding Animation" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400" align="right" style="margin-left: 20px"/>
 
-## 🚀 About Me
+  ## 🚀 About Me
 
-```javascript
-const shashank = {
-    pronouns: "He" | "Him",
-    code: ["Java", "C++", "C", "JavaScript"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Spring Framework", "Microservices"],
-            databases: ["MySQL", "Redis", "PostgreSQL"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes"],
-        tools: ["Git", "Postman", "IntelliJ IDEA"]
-    },
-    currentFocus: "Building Scalable Microservices",
-    funFact: "I debug with coffee and solve bugs with more coffee ☕"
-};
-```
+  ```javascript
+  const shashank = {
+      pronouns: "He" | "Him",
+      code: ["Java", "C++", "C", "JavaScript"],
+      technologies: {
+          backEnd: {
+              java: ["Spring Boot", "Spring Framework", "Microservices"],
+              databases: ["MySQL", "Redis", "PostgreSQL"]
+          },
+          devOps: ["AWS", "Docker", "Kubernetes"],
+          tools: ["Git", "Postman", "IntelliJ IDEA"]
+      },
+      currentFocus: "Building Scalable Microservices",
+      funFact: "I debug with coffee and solve bugs with more coffee ☕"
+  };
+  ```
+</div>
+
+<br clear="right">
 
 <details>
 <summary>🎯 Current Focus</summary>
