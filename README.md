@@ -6,34 +6,36 @@
 
 <p align="center">
   <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SHASHANK___45?logo=twitter&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/Shashank-deb" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shashank-deb?logo=github&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-3BA7F7?style=for-the-badge&logo=linkedin&labelColor=1A1B27"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/shashank_446/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&labelColor=1A1B27"/>
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashank's GitHub Stats" />
       </td>
-      <td align="center" width="50%">
-        <p align="center">🎯 <strong>Current Focus</strong></p>
-        <p align="left">
-          • 🔭 Working on <strong>Enterprise Java Applications</strong><br>
-          • 🌱 Mastering <strong>System Design & Architecture</strong><br>
-          • 💻 Building <strong>Scalable Microservices</strong><br>
-          • 📚 Learning <strong>Cloud Native Technologies</strong><br>
-          • ⚡ Fun fact: I debug with coffee ☕
-        </p>
+      <td align="center" width="50%" style="background-color: #1A1B27; border: none; border-radius: 6px;">
+        <div style="background: linear-gradient(135deg, #1A1B27 0%, #242738 100%); padding: 20px; border-radius: 6px;">
+          <p align="center" style="color: #A9FEF7; font-size: 18px; margin-bottom: 15px;">🎯 <strong>Current Focus</strong></p>
+          <p align="left" style="color: #ffffff;">
+            • 🔭 Working on <strong style="color: #A9FEF7;">Enterprise Java Applications</strong><br>
+            • 🌱 Mastering <strong style="color: #A9FEF7;">System Design & Architecture</strong><br>
+            • 💻 Building <strong style="color: #A9FEF7;">Scalable Microservices</strong><br>
+            • 📚 Learning <strong style="color: #A9FEF7;">Cloud Native Technologies</strong><br>
+            • ⚡ Fun fact: I debug with coffee ☕
+          </p>
+        </div>
       </td>
     </tr>
   </table>
@@ -41,7 +43,7 @@
 
 ## 🚀 About Me
 
-```javascript
+\`\`\`javascript
 const shashank = {
     pronouns: "He" | "Him",
     code: ["Java", "C++", "C", "JavaScript"],
@@ -56,14 +58,14 @@ const shashank = {
     currentFocus: "Building Scalable Microservices",
     funFact: "I debug with coffee and solve bugs with more coffee ☕"
 };
-```
+\`\`\`
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
   
 ### Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ajava)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ajava)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Acpp)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ac)
 
@@ -105,25 +107,25 @@ const shashank = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/shashank____24/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:sharmashashank446@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://leetcode.com/u/shashank_446/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF69B4.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/-Resume-%23FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
   </a>
 </div>
 
