@@ -20,40 +20,43 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400" align="right" style="margin-left: 20px"/>
-
-  ## 🚀 About Me
-
-  ```javascript
-  const shashank = {
-      pronouns: "He" | "Him",
-      code: ["Java", "C++", "C", "JavaScript"],
-      technologies: {
-          backEnd: {
-              java: ["Spring Boot", "Spring Framework", "Microservices"],
-              databases: ["MySQL", "Redis", "PostgreSQL"]
-          },
-          devOps: ["AWS", "Docker", "Kubernetes"],
-          tools: ["Git", "Postman", "IntelliJ IDEA"]
-      },
-      currentFocus: "Building Scalable Microservices",
-      funFact: "I debug with coffee and solve bugs with more coffee ☕"
-  };
-  ```
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashank's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <p align="center">🎯 <strong>Current Focus</strong></p>
+        <p align="left">
+          • 🔭 Working on <strong>Enterprise Java Applications</strong><br>
+          • 🌱 Mastering <strong>System Design & Architecture</strong><br>
+          • 💻 Building <strong>Scalable Microservices</strong><br>
+          • 📚 Learning <strong>Cloud Native Technologies</strong><br>
+          • ⚡ Fun fact: I debug with coffee ☕
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br clear="right">
+## 🚀 About Me
 
-<details>
-<summary>🎯 Current Focus</summary>
-<br>
-
-- 🔭 Working on **Enterprise Java Applications**
-- 🌱 Mastering **System Design & Architecture**
-- 💬 Ask me about **Java, Spring Boot, Microservices**
-- 📫 Reach me at [sharmashashank446@gmail.com](mailto:sharmashashank446@gmail.com)
-- ⚡ Fun fact: I love gaming 🎮 and fitness 💪
-</details>
+```javascript
+const shashank = {
+    pronouns: "He" | "Him",
+    code: ["Java", "C++", "C", "JavaScript"],
+    technologies: {
+        backEnd: {
+            java: ["Spring Boot", "Spring Framework", "Microservices"],
+            databases: ["MySQL", "Redis", "PostgreSQL"]
+        },
+        devOps: ["AWS", "Docker", "Kubernetes"],
+        tools: ["Git", "Postman", "IntelliJ IDEA"]
+    },
+    currentFocus: "Building Scalable Microservices",
+    funFact: "I debug with coffee and solve bugs with more coffee ☕"
+};
+```
 
 ## 🛠️ Tech Stack & Tools
 
@@ -83,8 +86,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shashank-deb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
