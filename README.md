@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/SHASHANK___45?logo=twitter&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SHASHANK___45?color=1DA1F2&logo=twitter&style=for-the-badge"/>
   </a>
   <a href="https://github.com/Shashank-deb" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shashank-deb?logo=github&style=for-the-badge&color=3BA7F7&labelColor=1A1B27&label=Follow"/>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Shashank-deb?color=181717&logo=github&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-3BA7F7?style=for-the-badge&logo=linkedin&labelColor=1A1B27"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/shashank_446/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&labelColor=1A1B27"/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 ## 🚀 About Me
 
-```javascript
+\`\`\`javascript
 const shashank = {
     pronouns: "He" | "Him",
     code: ["Java", "C++", "C", "JavaScript"],
@@ -56,14 +56,14 @@ const shashank = {
     currentFocus: "Building Scalable Microservices",
     funFact: "I debug with coffee and solve bugs with more coffee ☕"
 };
-```
+\`\`\`
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
   
 ### Languages
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ajava)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ajava)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Acpp)
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/search?q=user%3AShashank-deb+language%3Ac)
 
@@ -105,25 +105,25 @@ const shashank = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/shashank____24/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:sharmashashank446@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/shashank_446/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF69B4.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+    <img alt="Resume" src="https://img.shields.io/badge/-Resume-D14836?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
 
