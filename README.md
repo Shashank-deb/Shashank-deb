@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Senior+Java+Developer;Spring+Boot+Expert;Microservices+Specialist;3%2B+Years+Experience" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+Expert;Microservices+Specialist;3%2B+Years+Experience" alt="Roles" />
 </div>
 
 <p align="center">
@@ -44,12 +44,12 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=const+shashank+%3D+%7B...%7D;Senior+Java+Developer;3%2B+Years+Experience;Spring+Boot+Expert;Microservices+Specialist;Backend+Professional" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=const+shashank+%3D+%7B...%7D;Java+Developer;3%2B+Years+Experience;Spring+Boot+Expert;Microservices+Specialist;Backend+Professional" alt="About Me Animation" />
 </div>
 
 ```javascript
 const shashank = {
-    role: "Senior Java Developer",
+    role: "Java Developer",
     experience: "3+ years",
     expertise: ["Java", "Spring Boot", "Microservices"],
     technologies: {
