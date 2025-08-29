@@ -1,90 +1,299 @@
-# Hi there, I'm Shashank Sharma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Shashank Sharma! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B;Full-Stack+Java+Developer+%E2%98%95;Microservices+Architecture+Expert+%F0%9F%9A%80;Cloud-Native+Technology+Enthusiast+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%8F%97%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Java+%7C+Spring+Boot+%7C+Microservices;Building+Enterprise+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/Shashank-deb" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/SHASHANK___45">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
   </a>
   <a href="mailto:sharmashashank446@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://leetcode.com/u/shashank_446/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/shashank_446/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashank-deb&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Shashank-deb?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1A1B27" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Shashank-deb&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/40165a147c3dcea75990d6c33a3f328958118b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c31374956724356713548615a4e6a6d2f67697068792e676966">
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```java
-public class ShashankSharma {
+public class Developer {
+    
     private String name = "Shashank Sharma";
-    private String location = "Delhi, India 🇮🇳";
+    private String location = "Delhi, India";
     private String role = "Software Engineer";
-    private String[] currentlyLearning = {"Kubernetes", "System Design", "Cloud Architecture"};
-    private String[] expertise = {"Java", "Spring Boot", "Microservices", "AWS"};
-    private String motto = "Code with passion, debug with coffee ☕";
+    
+    private List<String> languages = Arrays.asList(
+        "Java", "C++", "JavaScript", "Python"
+    );
+    
+    private Map<String, List<String>> techStack = Map.of(
+        "Backend", List.of("Spring Boot", "Microservices", "REST APIs"),
+        "Database", List.of("MySQL", "PostgreSQL", "Redis"),
+        "Cloud", List.of("AWS", "Docker", "Kubernetes"),
+        "Tools", List.of("Git", "Maven", "IntelliJ IDEA")
+    );
     
     public void getCurrentFocus() {
-        System.out.println("🔥 Building enterprise-grade microservices");
-        System.out.println("🎯 Mastering distributed systems");
-        System.out.println("🚀 Exploring cloud-native technologies");
-        System.out.println("💡 Contributing to open source");
+        System.out.println("🔥 Building scalable enterprise applications");
+        System.out.println("📚 Learning System Design patterns");
+        System.out.println("☁️ Exploring cloud-native technologies");
     }
 }
 ```
 
-### 🎯 What I'm Up To
-- 🔭 Currently working on **Enterprise Microservices Architecture**
-- 🌱 Deep diving into **Kubernetes & Container Orchestration**
-- 👯 Looking to collaborate on **Open Source Java Projects**
-- 💬 Ask me about **Spring Boot, System Design, Data Structures**
-- ⚡ Fun fact: **I can solve a Rubik's cube while debugging code!**
+### 🎯 Current Focus
+- 🔭 Working on **Enterprise Java Microservices**
+- 🌱 Learning **Kubernetes & System Design**
+- 👯 Open to collaborate on **Spring Boot Projects**
+- 💬 Ask me about **Java, Spring, Microservices, AWS**
+- ⚡ Fun fact: **I debug better after coffee!** ☕
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Technology Stack
 
-### 💻 Programming Languages
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h3>💻 Languages</h3>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+
+<td align="center" width="25%">
+<h3>🌐 Frameworks</h3>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</td>
+
+<td align="center" width="25%">
+<h3>🗄️ Databases</h3>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</td>
+
+<td align="center" width="25%">
+<h3>☁️ Cloud & DevOps</h3>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,python" alt="Programming Languages"/>
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</td>
+</tr>
+</table>
 </div>
 
-### 🌐 Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" alt="Frameworks"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-deb&theme=github-dark-blue&hide_border=true"/>
 </div>
 
-### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" alt="Cloud & DevOps"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&row=2"/>
 </div>
 
-### 🗄️ Databases & Tools
+---
+
+## 💼 Professional Expertise
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Backend-Expert-4CAF50?style=for-the-badge"/>
+<h4>🏗️ Backend Development</h4>
+<p>Enterprise Java applications with Spring Boot, microservices architecture, and scalable API development</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Cloud-Proficient-2196F3?style=for-the-badge"/>
+<h4>☁️ Cloud Solutions</h4>
+<p>AWS services, containerization with Docker, and orchestration using Kubernetes for production deployments</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Architecture-Advanced-FF9800?style=for-the-badge"/>
+<h4>🎯 System Design</h4>
+<p>Designing distributed systems, implementing design patterns, and optimizing application performance</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Coding Activity
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,git,postman" alt="Databases & Tools"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&bg_color=161B22&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
 </div>
 
-### 🎨 IDEs & Development Tools
+---
+
+## 🏆 Achievements & Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,vim" alt="IDEs"/>
+<table>
+<tr>
+<td align="center">
+<h3>🎯 Problem Solving</h3>
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<br><br>
+<img src="https://img.shields.io/badge/Data%20Structures-Advanced-00D4AA?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Algorithms-Expert-FF6B6B?style=for-the-badge"/>
+</td>
+<td align="center">
+<h3>💻 Development</h3>
+<img src="https://img.shields.io/badge/Java%20Experience-3%2B%20Years-ED8B00?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Projects%20Built-15%2B%20Apps-6DB33F?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Code%20Quality-90%25%2B-4CAF50?style=for-the-badge"/>
+</td>
+<td align="center">
+<h3>🌟 Contribution</h3>
+<img src="https://img.shields.io/badge/Open%20Source-Active-FF69B4?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Community-Contributor-9C27B0?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Knowledge%20Sharing-Regular-FF5722?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🔥 Featured Repositories
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Shashank-deb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=spring-microservices&theme=github_dark&hide_border=true&show_owner=true"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/Shashank-deb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=java-algorithms&theme=github_dark&hide_border=true&show_owner=true"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📚 Learning Journey
+
+```text
+Week Focus Distribution:
+
+Java Spring Development  ████████████████████▓░░░░░  85%
+System Design Patterns  ████████████▓░░░░░░░░░░░░░░  55%  
+Cloud Technologies       ███████████▓░░░░░░░░░░░░░░░  50%
+DevOps & Automation      ████████▓░░░░░░░░░░░░░░░░░░  40%
+Open Source Contribution ██████▓░░░░░░░░░░░░░░░░░░░░  30%
+```
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>Professional Network
+</a>
+</td>
+<td align="center">
+<a href="https://twitter.com/SHASHANK___45">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<br>Tech Updates
+</a>
+</td>
+<td align="center">
+<a href="https://leetcode.com/u/shashank_446/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<br>Problem Solving
+</a>
+</td>
+<td align="center">
+<a href="mailto:sharmashashank446@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br>Direct Contact
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 💡 What I Do
+
+<div align="center">
+
+### 🔧 **Backend Engineering**
+Building robust enterprise applications using **Java & Spring Boot**
+
+### ⚡ **Microservices Architecture** 
+Designing scalable, fault-tolerant distributed systems
+
+### ☁️ **Cloud Solutions**
+Deploying applications on **AWS** with **Docker** and **Kubernetes**
+
+### 📊 **Performance Optimization**
+Database tuning, caching strategies, and application profiling
+
 </div>
 
 ---
@@ -92,255 +301,104 @@ public class ShashankSharma {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=E6EDF3&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Shashank-deb&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&custom_title=Shashank's%20Contribution%20Timeline&theme=react-dark&hide_border=true&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true" alt="Contribution Graph"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-deb&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=79C0FF"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Shashank-deb/microservices-ecosystem">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=microservices-ecosystem&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Microservices Project"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Shashank-deb/spring-boot-advanced">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=spring-boot-advanced&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Spring Boot Project"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<img src="https://github-profile-trophy.vercel.app/?username=Shashank-deb&theme=onedark&no-frame=true&column=4&row=2&margin-w=15&margin-h=15"/>
 </div>
 
 ---
 
-## 🏆 Coding Achievements
+## 📊 Contribution Graph
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-        <br>
-        <img src="https://leetcard.jacoblin.cool/shashank_446?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats"/>
-      </td>
-      <td align="center">
-        <h3>📊 Coding Stats</h3>
-        <p><strong>🎯 Problem Solving:</strong> 500+ DSA Problems</p>
-        <p><strong>☕ Java Mastery:</strong> 3+ Years Experience</p>
-        <p><strong>🏗️ Projects Built:</strong> 15+ Production Apps</p>
-        <p><strong>⚡ Code Quality:</strong> Test Coverage > 85%</p>
-        <p><strong>🌟 Open Source:</strong> Active Contributor</p>
-      </td>
-    </tr>
-  </table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-deb&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=E6EDF3&area=true&custom_title=Annual%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
 
-## 🎯 Skill Proficiency
+## 💼 Professional Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🔥 Backend Technologies</h3>
-        <code>Java Spring Boot     ████████████ 95%</code><br>
-        <code>Microservices       ███████████░ 90%</code><br>
-        <code>RESTful APIs        ████████████ 95%</code><br>
-        <code>Spring Security     ██████████░░ 85%</code><br>
-        <code>JPA/Hibernate       ████████████ 95%</code><br>
-        <code>Maven/Gradle        ███████████░ 90%</code><br>
-      </td>
-      <td width="50%">
-        <h3>☁️ Cloud & DevOps</h3>
-        <code>AWS Services        ██████████░░ 80%</code><br>
-        <code>Docker              ███████████░ 88%</code><br>
-        <code>Kubernetes          ████████░░░░ 75%</code><br>
-        <code>CI/CD Pipeline      ██████████░░ 82%</code><br>
-        <code>Redis Caching       ███████████░ 90%</code><br>
-        <code>System Design       ████████░░░░ 78%</code><br>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="left" width="50%">
+
+**Backend Technologies:**
+- Java Enterprise Edition ⭐⭐⭐⭐⭐
+- Spring Framework ⭐⭐⭐⭐⭐  
+- Spring Boot ⭐⭐⭐⭐⭐
+- Microservices ⭐⭐⭐⭐☆
+- REST APIs ⭐⭐⭐⭐⭐
+- JPA/Hibernate ⭐⭐⭐⭐☆
+
+</td>
+<td align="left" width="50%">
+
+**Cloud & DevOps:**
+- AWS Services ⭐⭐⭐⭐☆
+- Docker ⭐⭐⭐⭐☆
+- Kubernetes ⭐⭐⭐☆☆
+- CI/CD Pipelines ⭐⭐⭐⭐☆
+- System Design ⭐⭐⭐⭐☆
+- Performance Tuning ⭐⭐⭐⭐☆
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-```text
-Java Spring Boot     ██████████████████░░░   85.2%
-System Design        ████████░░░░░░░░░░░░░   35.7%
-DevOps & Cloud       ██████░░░░░░░░░░░░░░░   28.4%
-Open Source          ████░░░░░░░░░░░░░░░░░   18.9%
-Learning New Tech    ███░░░░░░░░░░░░░░░░░░   15.6%
-```
-
----
-
-## 🌟 What Makes Me Stand Out
+## 🎯 Featured Work
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Architecture-Microservices-00D9FF?style=for-the-badge" alt="Architecture"/>
-        <h4>🏗️ System Architecture</h4>
-        <p>Designing scalable microservices with proper separation of concerns and fault tolerance</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Performance-Optimization-FF6B6B?style=for-the-badge" alt="Performance"/>
-        <h4>⚡ Performance Tuning</h4>
-        <p>Optimizing application performance with caching strategies and database tuning</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Quality-Test%20Driven-4CAF50?style=for-the-badge" alt="Quality"/>
-        <h4>🧪 Code Quality</h4>
-        <p>Writing clean, testable code with comprehensive unit and integration tests</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<h3>🚀 Check out my pinned repositories below for my best work!</h3>
 
----
-
-## 💼 Professional Experience Highlights
-
-<div align="center">
-  
-| 🏢 **Experience** | 🛠️ **Key Technologies** | 🎯 **Impact** |
-|:---:|:---:|:---:|
-| **Enterprise Java Development** | Spring Boot, Microservices | Built 15+ production applications |
-| **Cloud Architecture** | AWS, Docker, Kubernetes | Improved system scalability by 300% |
-| **Database Optimization** | MySQL, PostgreSQL, Redis | Reduced query response time by 60% |
-| **API Development** | REST, GraphQL, Swagger | Designed 50+ robust API endpoints |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=spring-boot-microservices&theme=github_dark&hide_border=true)](https://github.com/Shashank-deb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shashank-deb&repo=java-data-structures&theme=github_dark&hide_border=true)](https://github.com/Shashank-deb)
 
 </div>
 
 ---
 
-## 🎨 GitHub Contribution Snake
+## 📫 Let's Collaborate!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashank-deb/Shashank-deb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashank-deb/Shashank-deb/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shashank-deb/Shashank-deb/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<h3>💭 Open to discussing:</h3>
 
----
+**🔥 Java & Spring Boot Projects**  
+**☁️ Cloud Architecture Solutions**  
+**🚀 Open Source Contributions**  
+**📚 Technical Knowledge Sharing**  
 
-## 🏅 Certifications & Learning Path
+<a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf">
+<img src="https://img.shields.io/badge/Download-Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Oracle-Java%20Certified-Red?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</div>
-
----
-
-## 📚 Recent Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building Resilient Microservices with Spring Boot](https://dev.to/shashank_446)
-- ⚡ [Optimizing Database Performance in Spring Applications](https://medium.com/@shashank_446)
-- 🌟 [Implementing Circuit Breaker Pattern in Java](https://hashnode.com/@shashank_446)
-- 🚀 [Docker Best Practices for Java Applications](https://dev.to/shashank_446)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  <h3>Let's build something amazing together!</h3>
-  
-  <a href="https://www.linkedin.com/in/shashank-sharma-5a18811b6/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <br><br>
-  <a href="https://twitter.com/SHASHANK___45" target="_blank">
-    <img src="https://img.shields.io/badge/🐦%20Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <br><br>
-  <a href="mailto:sharmashashank446@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Let's%20Discuss-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/Shashank-deb/Personal-Documents/blob/master/Shashank_Sharma%20.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Resume-Download%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-  </a>
-</div>
-
----
-
-## 💭 Random Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Quote"/>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashank-deb&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=Shashank's%20GitHub%20Stats" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-deb&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🎪 Fun Zone</h2>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card"/>
-</div>
+<h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+them;Let's+connect+and+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Footer"/>
+</h3>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+explore+my+repositories+%F0%9F%94%8D;Don't+forget+to+%E2%AD%90+if+you+find+something+interesting!;Let's+connect+and+build+the+future+together!+%F0%9F%9A%80" alt="Closing Message"/>
-</div>
+**⭐️ From [Shashank Sharma](https://github.com/Shashank-deb) with ❤️**
 
-<div align="center">
-  <h3>🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-</div>
-
-<div align="center">
-  
-  **Made with ❤️ and lots of ☕ by [Shashank Sharma](https://github.com/Shashank-deb)**
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=00D9FF&animation=twinkling" alt="Footer Wave"/>
 </div>
