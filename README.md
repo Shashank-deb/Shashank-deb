@@ -25,7 +25,7 @@
 public class ShashankSharma {
     
     private static final String NAME = "Shashank Sharma";
-    private static final String LOCATION = "Delhi, India 📍";
+    private static final String LOCATION = "Jabalpur, India 📍";
     private static final String ROLE = "Software Engineer";
     private static final int EXPERIENCE_YEARS = 3;
     
